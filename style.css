@@ -1,0 +1,82 @@
+body{
+    background-color: black !important;
+}
+.navbar{
+    background-color: black;
+}
+
+.nav-item a{
+    color: white !important;
+}
+
+.navbar-toggler{
+    background-color: white !important;
+}
+.carousel{
+    padding-top: 10px;
+}
+
+.cards{
+    /* border: 2px solid black; */
+    display: flex;
+    margin: 5px;
+    justify-content: center;
+    /* background-color: rgb(220,20,60,0.4); */
+    
+}
+
+.card-items{
+    margin: 10px;
+    /* border: 2px solid black; */
+
+}
+
+.trending h1{
+    margin-top: 120px;
+    margin-left: 115px;
+    font-weight: 500;
+    color: red;
+}
+
+.popular-on-netflix{
+    margin-top: 120px;
+    margin-left: 115px;
+    font-weight: 500;
+    color: red;
+    
+}
+/* .popular-on-netflix-span{
+    border: solid red 1px;
+    padding: 5px;
+} */
+
+.card{
+    background-color: black !important;
+}
+
+.card-items{
+    border: solid white 1px;
+    border-radius: 5px;
+}
+
+.card-body{
+    color: white;
+}
+.text-reset{
+    text-decoration: none;
+}
+
+.text-reset i{
+    color: white;
+}
+
+.me-5{
+    color: white;
+}
+
+.text-center{
+    color: white !important;
+}
+.footer{
+    background-color: black !important;
+}
